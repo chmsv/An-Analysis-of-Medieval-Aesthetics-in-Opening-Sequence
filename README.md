@@ -3,4 +3,4 @@ The master’s thesis examines the aesthetics and evolution of title cards in me
 
 This website is an integral part of the research. It offers an opportunity to explore the database and to discover the visualization of information.
 
-Another component of the research is the (Jupyter Notebook)[https://github.com/chmsv/Jupyter-Notebook-Analysis-of-Medieval-Aesthetics-in-Opening-Sequence]. 
+Another component of the research is the [Jupyter Notebook](https://github.com/chmsv/Jupyter-Notebook-Analysis-of-Medieval-Aesthetics-in-Opening-Sequence). 
