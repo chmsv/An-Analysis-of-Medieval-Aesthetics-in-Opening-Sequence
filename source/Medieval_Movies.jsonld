@@ -1982,6 +1982,7 @@
         "name": "Paul Castleton"
       },
       "keywords": [
+        "Robin Hood",
         "Family",
         "Literature",
         "Adventure"
@@ -2172,6 +2173,7 @@
         "name": "Alexandre Dumas"
       },
       "keywords": [
+        "Robin Hood",
         "Literature",
         "Adventure"
       ],
@@ -2998,6 +3000,7 @@
         "name": "Story"
       },
       "keywords": [
+        "Robin Hood",
         "Family",
         "Adventure"
       ],
@@ -3115,7 +3118,9 @@
       ],
       "temporalCoverage": "12th",
       "genre": [
-        "Fiction"
+        "Robin Hood",
+        "Fiction",
+        "Family"
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
@@ -4001,6 +4006,7 @@
         "name": "Story"
       },
       "keywords": [
+        "Robin Hood",
         "Richard the Lionheart",
         "Adventure"
       ],
@@ -5283,6 +5289,7 @@
         "name": "Story"
       },
       "keywords": [
+        "Robin Hood",
         "Adventure"
       ],
       "description": "Opening (Title) Sequence",
@@ -5587,6 +5594,7 @@
       ],
       "temporalCoverage": "14th",
       "genre": [
+        "Robin Hood",
         "Fiction"
       ],
       "isBasedOn": {
