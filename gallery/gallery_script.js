@@ -30,7 +30,7 @@ let allMovies = [];
 let allKeywords = new Set();
 
 // Fetch and process movie data
-fetch('../source/Medieval_Movies.jsonld')
+fetch('https://raw.githubusercontent.com/chmsv/Analysis-of-Medieval-Aesthetics-in-Opening-Sequence/main/source/Medieval_Movies.jsonld')
   .then((response) => response.json())
   .then((data) => {
     allMovies = data['@graph'];
