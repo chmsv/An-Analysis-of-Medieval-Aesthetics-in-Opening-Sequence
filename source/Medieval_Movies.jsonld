@@ -1973,7 +1973,7 @@
           "name": "George Sherman"
         }
       ],
-      "temporalCoverage": "14th",
+      "temporalCoverage": "13th",
       "genre": [
         "Fiction"
       ],
@@ -1983,6 +1983,8 @@
       },
       "keywords": [
         "Robin Hood",
+        "King Richard the Lionheart",
+        "Magna Carta",
         "Family",
         "Literature",
         "Adventure"
@@ -2166,7 +2168,7 @@
       ],
       "temporalCoverage": "12th",
       "genre": [
-        "History"
+        "Fiction"
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
@@ -2174,6 +2176,8 @@
       },
       "keywords": [
         "Robin Hood",
+        "King Richard the Lionheart", 
+        "Crusades", 
         "Literature",
         "Adventure"
       ],
@@ -3001,6 +3005,7 @@
       },
       "keywords": [
         "Robin Hood",
+        "King John of England", 
         "Family",
         "Adventure"
       ],
@@ -3118,15 +3123,16 @@
       ],
       "temporalCoverage": "12th",
       "genre": [
-        "Robin Hood",
-        "Fiction",
-        "Family"
+        "Fiction"
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
         "name": "Story"
       },
       "keywords": [
+        "Robin Hood",
+        "King Richard the Lionheart", 
+        "Family",
         "Adventure"
       ],
       "description": "Opening (Title) Sequence",
@@ -3999,7 +4005,7 @@
       ],
       "temporalCoverage": "12th",
       "genre": [
-        "History"
+        "Fiction"
       ],
       "isBasedOn": {
         "@type": "CreativeWork",
@@ -4008,7 +4014,9 @@
       "keywords": [
         "Robin Hood",
         "Richard the Lionheart",
-        "Adventure"
+        "Crusades",
+        "Adventure",
+        "War"
       ],
       "description": "Opening (Title) Sequence",
       "additionalProperty": [
@@ -5290,6 +5298,8 @@
       },
       "keywords": [
         "Robin Hood",
+        "Henry III",
+        "Family",
         "Adventure"
       ],
       "description": "Opening (Title) Sequence",
@@ -5592,9 +5602,8 @@
           "name": "Terence Fisher"
         }
       ],
-      "temporalCoverage": "14th",
+      "temporalCoverage": "13th",
       "genre": [
-        "Robin Hood",
         "Fiction"
       ],
       "isBasedOn": {
@@ -5602,7 +5611,11 @@
         "name": "Story"
       },
       "keywords": [
-        "Adventure"
+        "Robin Hood",
+        "King Richard the Lionheart", 
+        "Crusades", 
+        "Adventure",
+        "War"
       ],
       "description": "Opening (Title) Sequence",
       "additionalProperty": [
